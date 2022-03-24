@@ -1,8 +1,3 @@
-# CTI-110
-# P3HW2 - Pizza Order
-# Harold Diaz
-# 3/24/2022
-#
 
 import math
 
